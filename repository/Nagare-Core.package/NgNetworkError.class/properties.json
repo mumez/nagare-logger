@@ -1,0 +1,14 @@
+{
+	"category" : "Nagare-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"originalError" ],
+	"name" : "NgNetworkError",
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }

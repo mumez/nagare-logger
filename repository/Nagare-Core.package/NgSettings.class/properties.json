@@ -1,0 +1,14 @@
+{
+	"category" : "Nagare-Core",
+	"classinstvars" : [
+		"default" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"settingsDict" ],
+	"name" : "NgSettings",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

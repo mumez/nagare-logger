@@ -1,0 +1,28 @@
+{
+	"class" : {
+		"activate" : "mu 5/2/2012 13:09",
+		"actualClass" : "mu 5/3/2012 15:32",
+		"default" : "mu 5/3/2012 15:32",
+		"defaultActualClass" : "mu 5/3/2012 15:31",
+		"initDefault" : "mu 5/2/2012 13:09",
+		"initialize" : "mu 5/2/2012 13:09",
+		"release" : "mu 5/4/2012 12:21" },
+	"instance" : {
+		"asRecord:" : "mu 5/3/2012 15:47",
+		"dictionaryFromAssociations:" : "mu 5/2/2012 14:58",
+		"errorRecordFrom:" : "mu 5/3/2012 16:26",
+		"hearbeatTo:port:" : "mu 5/2/2012 13:54",
+		"heartbeatProcess" : "mu 5/2/2012 13:14",
+		"heartbeatProcess:" : "mu 5/2/2012 13:13",
+		"initialize" : "mu 5/2/2012 14:06",
+		"isException:" : "mu 5/2/2012 17:19",
+		"limitedStringFrom:" : "mu 5/3/2012 16:16",
+		"listenSystemShutdownEvent" : "mu 5/2/2012 14:00",
+		"prepareHeartbeatProcess" : "mu 5/4/2012 20:37",
+		"release" : "mu 5/2/2012 14:47",
+		"releaseHeartbeatProcess" : "mu 5/2/2012 13:55",
+		"sendBytes:" : "mu 5/2/2012 14:46",
+		"sendLog:tagged:on:" : "mu 5/13/2012 21:55",
+		"settings" : "mu 5/2/2012 13:49",
+		"shortStackStringFrom:" : "mu 5/2/2012 17:04",
+		"unixTimeSeconds" : "mu 5/2/2012 14:29" } }

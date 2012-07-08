@@ -1,0 +1,24 @@
+{
+	"category" : "Nagare-Core",
+	"classinstvars" : [
+		"default" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"policy",
+		"settings",
+		"tagPrefix",
+		"accessTag",
+		"adminTag",
+		"debugTag",
+		"fatalTag",
+		"infoTag",
+		"perfTag",
+		"errorTag",
+		"warnTag" ],
+	"name" : "NgLog",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

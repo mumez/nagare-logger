@@ -1,0 +1,3 @@
+accessing
+portableUtil
+	^NgPortableUtil default

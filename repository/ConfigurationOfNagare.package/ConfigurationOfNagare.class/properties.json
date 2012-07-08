@@ -1,0 +1,14 @@
+{
+	"category" : "ConfigurationOfNagare",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LastVersionLoad" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"project" ],
+	"name" : "ConfigurationOfNagare",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

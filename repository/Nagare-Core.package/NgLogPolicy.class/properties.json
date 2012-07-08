@@ -1,0 +1,14 @@
+{
+	"category" : "Nagare-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"logger" ],
+	"name" : "NgLogPolicy",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
