@@ -1,3 +1,3 @@
 accessing
 unixTimeSeconds
-	^ TimeStamp current asUnixTime
+	^ DateAndTime current asUnixTime
