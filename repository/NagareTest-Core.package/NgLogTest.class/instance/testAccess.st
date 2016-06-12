@@ -9,5 +9,5 @@ testAccess
 	self assert: ((logs at: 1) at: 1) = self ng accessTag.
 	self assert: ((logs at: 2) at: 1) = self ng accessTag.
 	
-	self assert: ((logs at: 1) at: 3) = 'test1' asByteArray.
+	self assert: ((logs at: 1) at: 3) asString = 'test1'.
 	self assert: ((logs at: 2) at: 3) = 222
