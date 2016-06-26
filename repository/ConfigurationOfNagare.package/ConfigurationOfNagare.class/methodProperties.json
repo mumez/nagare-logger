@@ -1,6 +1,9 @@
 {
 	"class" : {
 		"bootstrapPackage:from:" : "mu 5/3/2012 15:00",
+		"catalogDescription" : "MasashiUmezawa 6/26/2016 11:57",
+		"catalogKeyClassesAndExample" : "MasashiUmezawa 6/26/2016 12:05",
+		"catalogKeywords" : "MasashiUmezawa 6/26/2016 11:59",
 		"compareVersions" : "mu 5/3/2012 15:00",
 		"createNewDevelopmentVersion" : "mu 5/3/2012 15:00",
 		"ensureMetacello" : "mu 5/3/2012 15:00",
@@ -24,4 +27,5 @@
 		"version103:" : "mu 5/13/2012 23:22",
 		"version104:" : "MasashiUmezawa 6/23/2014 22:02",
 		"version105:" : "MasashiUmezawa 6/12/2016 14:51",
-		"version110:" : "MasashiUmezawa 6/12/2016 14:50" } }
+		"version110:" : "MasashiUmezawa 6/12/2016 14:50",
+		"version111:" : "MasashiUmezawa 6/26/2016 11:52" } }
