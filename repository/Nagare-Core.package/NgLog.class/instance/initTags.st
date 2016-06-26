@@ -1,6 +1,6 @@
 initialize-release
 initTags
-	#(accessTag adminTag debugTag fatalTag infoTag perfTag errorTag warnTag)
+	self tags
 		do: [:each | | tag |
 		tag := self tagPrefix, (self class perform: each). 
 		self perform: (each, ':') asSymbol with: tag

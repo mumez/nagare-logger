@@ -1,4 +1,4 @@
-accessing
+accessing-tags
 infoTag: anObject
 	"Set the value of infoTag"
 

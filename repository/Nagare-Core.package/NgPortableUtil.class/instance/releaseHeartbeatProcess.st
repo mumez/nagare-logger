@@ -1,5 +1,5 @@
 private
 releaseHeartbeatProcess
 	self heartbeatProcess ifNil: [^self].
-	self heartbeatProcess terminate.
+	[self heartbeatProcess terminate] on: ProcessAlreadyTerminating do: [:ex |].
 	self heartbeatProcess: nil

@@ -4,7 +4,7 @@ prepareHeartbeatProcess
 	host := self settings host.
 	port := self settings port.
 	process := [
-		[self hearbeatTo: host port: port.
+		[self heartbeatTo: host port: port.
 		(Delay forSeconds: self settings heartbeatInterval) wait] repeat.
 	] newProcess.
 	process priority: Processor userBackgroundPriority.
