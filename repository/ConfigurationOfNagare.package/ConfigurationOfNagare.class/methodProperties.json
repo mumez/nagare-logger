@@ -16,11 +16,11 @@
 		"validate" : "MasashiUmezawa 6/12/2016 14:49" },
 	"instance" : {
 		"baseline100:" : "mu 5/3/2012 21:56",
-		"baseline110:" : "MasashiUmezawa 6/12/2016 14:44",
+		"baseline110:" : "MasashiUmezawa 12/29/2016 15:25",
 		"development:" : "mu 5/3/2012 15:00",
 		"project" : "mu 5/3/2012 15:00",
 		"squeakCommonPostLoadDoIt" : "mu 5/3/2012 15:01",
-		"stable:" : "mu 5/3/2012 15:01",
+		"stable:" : "MasashiUmezawa 12/29/2016 15:20",
 		"version100:" : "mu 5/4/2012 12:43",
 		"version101:" : "mu 5/4/2012 22:11",
 		"version102:" : "mu 5/5/2012 21:24",
@@ -28,4 +28,5 @@
 		"version104:" : "MasashiUmezawa 6/23/2014 22:02",
 		"version105:" : "MasashiUmezawa 6/12/2016 14:51",
 		"version110:" : "MasashiUmezawa 6/12/2016 14:50",
-		"version111:" : "MasashiUmezawa 6/26/2016 11:52" } }
+		"version111:" : "MasashiUmezawa 6/26/2016 11:52",
+		"version112:" : "MasashiUmezawa 12/29/2016 15:20" } }
