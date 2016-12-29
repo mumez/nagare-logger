@@ -11,6 +11,11 @@ baseline110: spec
 					className: 'ConfigurationOfMessagePack'; loads: #('Core' );
 					repository: 'http://smalltalkhub.com/mc/MasashiUmezawa/MessagePack/main' ].
 		spec
+			project: 'MessagePack Test' with: [
+				spec
+					className: 'ConfigurationOfMessagePack'; loads: #('Test' );
+					repository: 'http://smalltalkhub.com/mc/MasashiUmezawa/MessagePack/main' ].
+		spec
 			project: 'StOMP Core' with: [
 				spec
 					className: 'ConfigurationOfStOMP'; loads: #('Core' );
