@@ -1,20 +1,23 @@
 {
-	"class" : {
-		"on:" : "mu 5/2/2012 17:49" },
 	"instance" : {
-		"consideredAsFatal:" : "mu 5/3/2012 01:09",
 		"consideredAsWarning:" : "mu 5/3/2012 01:10",
-		"errorRecordFrom:" : "mu 5/13/2012 21:38",
-		"logException:" : "mu 5/2/2012 17:50",
-		"logLevel" : "mu 5/3/2012 01:09",
 		"logger" : "mu 5/2/2012 17:44",
 		"logger:" : "mu 5/2/2012 17:44",
-		"settings" : "mu 5/3/2012 01:09",
 		"shouldLogAccess" : "mu 5/2/2012 23:23",
-		"shouldLogAdmin" : "mu 5/2/2012 23:26",
-		"shouldLogDebug" : "mu 5/2/2012 23:26",
-		"shouldLogError" : "mu 5/2/2012 23:18",
 		"shouldLogFatal" : "mu 5/2/2012 23:19",
+		"shouldLogWarn" : "mu 5/2/2012 23:24",
 		"shouldLogInfo" : "mu 5/2/2012 23:24",
+		"errorRecordFrom:" : "mu 5/13/2012 21:38",
+		"settings" : "mu 5/3/2012 01:09",
+		"logLevel" : "mu 5/3/2012 01:09",
+		"shouldLogError" : "mu 5/2/2012 23:18",
 		"shouldLogProfile" : "mu 5/2/2012 23:24",
-		"shouldLogWarn" : "mu 5/2/2012 23:24" } }
+		"shouldLogAdmin" : "mu 5/2/2012 23:26",
+		"logException:" : "mu 5/2/2012 17:50",
+		"consideredAsFatal:" : "mu 5/3/2012 01:09",
+		"shouldLogDebug" : "mu 5/2/2012 23:26"
+	},
+	"class" : {
+		"on:" : "mu 5/2/2012 17:49"
+	}
+}

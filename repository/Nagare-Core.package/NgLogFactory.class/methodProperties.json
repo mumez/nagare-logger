@@ -1,12 +1,13 @@
 {
+	"instance" : { },
 	"class" : {
-		"@" : "mu 5/2/2012 23:52",
-		"at:ifAbsentPut:" : "mu 5/2/2012 23:42",
+		"removeKey:ifAbsent:" : "mu 5/3/2012 21:36",
+		"initialize" : "mu 5/3/2012 14:47",
 		"at:ifAbsentPut:initialized:" : "mu 5/2/2012 23:42",
 		"defaultLogger" : "mu 5/2/2012 23:48",
-		"initialize" : "mu 5/3/2012 14:47",
+		"at:ifAbsentPut:" : "mu 5/2/2012 23:42",
+		"@" : "mu 5/2/2012 23:52",
 		"logger:" : "mu 5/2/2012 23:45",
-		"loggers" : "mu 5/2/2012 23:38",
-		"removeKey:ifAbsent:" : "mu 5/3/2012 21:36" },
-	"instance" : {
-		 } }
+		"loggers" : "mu 5/2/2012 23:38"
+	}
+}

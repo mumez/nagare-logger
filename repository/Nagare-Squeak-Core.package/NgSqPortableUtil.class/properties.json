@@ -1,15 +1,14 @@
 {
-	"category" : "Nagare-Squeak-Core",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
+	"super" : "NgPortableUtil",
+	"category" : "Nagare-Squeak-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"socketStream",
-		"udpSocket" ],
+		"udpSocket"
+	],
 	"name" : "NgSqPortableUtil",
-	"pools" : [
-		 ],
-	"super" : "NgPortableUtil",
-	"type" : "normal" }
+	"type" : "normal"
+}

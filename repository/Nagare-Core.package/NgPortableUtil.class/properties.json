@@ -1,14 +1,17 @@
 {
+	"commentStamp" : "",
+	"super" : "Object",
 	"category" : "Nagare-Core",
 	"classinstvars" : [
-		"default" ],
+		"default"
+	],
+	"pools" : [ ],
 	"classvars" : [
-		"ActualClass" ],
-	"commentStamp" : "",
+		"ActualClass"
+	],
 	"instvars" : [
-		"heartbeatProcess" ],
+		"heartbeatProcess"
+	],
 	"name" : "NgPortableUtil",
-	"pools" : [
-		 ],
-	"super" : "Object",
-	"type" : "normal" }
+	"type" : "normal"
+}
