@@ -1,14 +1,13 @@
 {
+	"commentStamp" : "",
+	"super" : "Object",
 	"category" : "Nagare-Core",
 	"classinstvars" : [
-		"loggers" ],
-	"classvars" : [
-		 ],
-	"commentStamp" : "",
-	"instvars" : [
-		 ],
+		"loggers"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
 	"name" : "NgLogFactory",
-	"pools" : [
-		 ],
-	"super" : "Object",
-	"type" : "normal" }
+	"type" : "normal"
+}

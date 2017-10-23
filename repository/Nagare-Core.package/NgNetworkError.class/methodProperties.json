@@ -1,6 +1,9 @@
 {
-	"class" : {
-		"originalError:" : "mu 5/2/2012 23:59" },
 	"instance" : {
-		"originalError" : "mu 5/3/2012 22:03",
-		"originalError:" : "mu 5/3/2012 22:03" } }
+		"originalError:" : "mu 5/3/2012 22:03",
+		"originalError" : "mu 5/3/2012 22:03"
+	},
+	"class" : {
+		"originalError:" : "mu 5/2/2012 23:59"
+	}
+}
