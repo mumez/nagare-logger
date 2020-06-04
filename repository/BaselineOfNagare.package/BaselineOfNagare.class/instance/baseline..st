@@ -14,6 +14,8 @@ baseline: spec
 			group: 'Tests' with: #('NagareTest-Core'). ].
 	spec for: #squeakCommon do: [
 		spec 
+			package: 'Nagare-Squeak-Core'.
+		spec 
 			package: 'Nagare-Core' with: [ spec includes: #('Nagare-Squeak-Core') ]. 
 		spec
 			group: 'Core' with: #('Nagare-Squeak-Core')]
