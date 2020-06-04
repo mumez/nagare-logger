@@ -1,14 +1,11 @@
 {
-	"category" : "NagareTest-Core",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "mu 5/3/2012 16:27",
-	"instvars" : [
-		 ],
-	"name" : "NgLogTest",
-	"pools" : [
-		 ],
 	"super" : "TestCase",
-	"type" : "normal" }
+	"category" : "NagareTest-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "NgLogTest",
+	"type" : "normal"
+}
