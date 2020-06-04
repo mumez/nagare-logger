@@ -1,15 +1,14 @@
 {
-	"category" : "NagareTest-Core",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
+	"super" : "NgPortableUtil",
+	"category" : "NagareTest-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"delegate",
-		"bytesSent" ],
+		"bytesSent"
+	],
 	"name" : "NgMockPortableUtil",
-	"pools" : [
-		 ],
-	"super" : "NgPortableUtil",
-	"type" : "normal" }
+	"type" : "normal"
+}
