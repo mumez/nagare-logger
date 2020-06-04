@@ -1,1 +1,3 @@
-(name 'BaselineOfNagare-MasashiUmezawa.1' message 'Initial commit' id 'abecc35b-a563-0d00-91b2-0d120787705e' date '5 June 2020' time '12:15:57.559177 am' author 'MasashiUmezawa' ancestors () stepChildren ())
+(name 'BaselineOfNagare-MasashiUmezawa.1591283979' message 'Fixed baseline:' id 'f075b07d-a563-0d00-966d-4f160787705e' date '5 June 2020' time '12:25:26.708853 am' author 'MasashiUmezawa' ancestors ((name 'BaselineOfNagare-GitHub.1591283978' message 'Merge pull request #6 from mumez/develop
+
+Added BaselineOfNagare' id '498205eb-7407-565b-a540-0d8bc4e137af' date '5 June 2020' time '12:19:38 am' author 'GitHub' ancestors () stepChildren ())) stepChildren ())
