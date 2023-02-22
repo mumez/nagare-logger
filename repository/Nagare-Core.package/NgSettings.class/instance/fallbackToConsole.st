@@ -1,3 +1,3 @@
 accessing
 fallbackToConsole
-	^self at: #fallbackToConsole ifAbsentPut: [false]
+	^self at: #fallbackToConsole ifAbsentPut: [true]

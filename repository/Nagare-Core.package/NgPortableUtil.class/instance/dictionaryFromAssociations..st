@@ -2,5 +2,7 @@ converting
 dictionaryFromAssociations: assocs
 	| dict |
 	dict := Dictionary new: assocs size.
-	dict addAll: assocs.
+	assocs do: [ :each |
+		dict at: each key put: each value.
+	].
 	^ dict
