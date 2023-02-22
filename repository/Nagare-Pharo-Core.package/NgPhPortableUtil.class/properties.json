@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "NgPortableUtil",
+	"category" : "Nagare-Pharo-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"socketStream",
+		"udpSocket"
+	],
+	"name" : "NgPhPortableUtil",
+	"type" : "normal"
+}
