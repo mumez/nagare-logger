@@ -21,6 +21,7 @@ baseline: spec
 		spec
 			group: 'Core' with: #('Nagare-Squeak-Core')].
 	spec for: #pharo do: [
+		spec postLoadDoIt: #postLoadForPharo.
 		spec 
 			package: 'Nagare-Pharo-Core'.
 		spec 
