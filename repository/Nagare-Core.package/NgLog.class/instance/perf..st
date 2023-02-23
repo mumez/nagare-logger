@@ -1,4 +1,4 @@
 logging
 perf: record
 	(self policy shouldLogProfile) ifFalse: [^self].
-	^self portableUtil sendLog: record tagged: self perfTag on: self
+	^self log: record tagged: self perfTag

@@ -1,0 +1,3 @@
+shutdown
+listenSystemShutdownEvent
+	SmalltalkImage current addToShutDownList: self class

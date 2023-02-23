@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "NgLogTest",
+	"category" : "NagareTest-StOMP",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "NgStompLogTest",
+	"type" : "normal"
+}
