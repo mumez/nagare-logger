@@ -4,13 +4,15 @@ baseline: spec
 
 	spec for: #'common' do: [
 		self messagePack: spec.
+		self stomp: spec.
 		spec 
 			package: 'Nagare-Core' with: [spec requires: #('MessagePack')];
 			package: 'NagareTest-Core' with: [ spec requires: #('Nagare-Core') ].
 		spec
-			group: 'default' with: #('Core');
+			group: 'default' with: #('Core' 'Tests');
 			group: 'Core' with: #('Nagare-Core');
-			group: 'Tests' with: #('NagareTest-Core'). ].
+			group: 'Tests' with: #('NagareTest-Core');
+			group: 'ExtraTests' with: #('NagareTest-StOMP'). ].
 	spec for: #squeak do: [
 		spec 
 			package: 'Nagare-Squeak-Core'.

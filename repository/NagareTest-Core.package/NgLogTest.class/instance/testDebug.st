@@ -9,5 +9,5 @@ testDebug
 	self assert: ((logs at: 1) at: 1) = self ng debugTag.
 	self assert: ((logs at: 2) at: 1) = self ng debugTag.
 	
-	self assert: ((logs at: 1) at: 3) asString = 'test1'.
-	self assert: ((logs at: 2) at: 3) = 222
+	self assert: (((logs at: 1) at: 3) at: 'data') asString = 'test1'.
+	self assert: (((logs at: 2) at: 3) at: 'data') = 222
