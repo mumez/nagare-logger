@@ -8,7 +8,7 @@ baseline: spec
 		spec 
 			package: 'Nagare-Core' with: [spec requires: #('MessagePack')];
 			package: 'NagareTest-Core' with: [ spec requires: #('Nagare-Core')];
-			package: 'NagareTest-StOMP' with: [ spec requires: #('NagareTest-Core')].
+			package: 'NagareTest-StOMP' with: [ spec requires: #('StOMP' 'NagareTest-Core')].
 		spec
 			group: 'default' with: #('Core' 'Tests');
 			group: 'Core' with: #('Nagare-Core');
